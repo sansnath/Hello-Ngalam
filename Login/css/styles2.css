@@ -211,4 +211,8 @@ div.top-content {
     margin-top: -23px;
 }
 
+div a {
+    display: block;
+    text-decoration: none;
+}
 
